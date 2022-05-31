@@ -1,0 +1,7 @@
+.idea
+.angular
+
+node_modules
+dist/
+
+**/.env
