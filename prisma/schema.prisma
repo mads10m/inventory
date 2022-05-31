@@ -22,6 +22,6 @@ model food_item {
   unit        String
   threshold   Int
   orderAmount Int
-  status      String
+  status      String?
   category    food_category
 }
